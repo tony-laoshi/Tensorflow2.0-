@@ -4,6 +4,8 @@
 
 ·视频讲解：B站视频链接：https://www.bilibili.com/video/BV1B7411L7Qt   
            mooc链接：https://www.icourse163.org/course/PKU-1002536002  
+ 
+ ·数据集下载：https://gitee.com/jlfff/tf_studynotes_2/releases/v.001
 
 
 ·该项目对课程中的课件，原码，笔记（他人所制作），用到的数据集和图像进行了汇总  
