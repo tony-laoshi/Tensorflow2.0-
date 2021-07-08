@@ -7,6 +7,6 @@
 
 
 ·该项目对课程中的课件，原码，笔记（他人所制作），用到的数据集和图像进行了汇总
-·笔记出处：https://github.com/dxc19951001/Study_TF2.0.git
+·笔记和总览出处：https://github.com/dxc19951001/Study_TF2.0.git
 
 
